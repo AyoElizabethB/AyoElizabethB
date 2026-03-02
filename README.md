@@ -35,3 +35,13 @@ I specialise in designing commercially accountable event strategies that align S
 ---
 
 This GitHub profile captures structured thinking, playbooks and frameworks that support commercially driven event strategy in scaling organisations.
+
+---
+
+## Why This GitHub Exists
+
+While I am not a software engineer, I work closely with Product, Sales and Marketing teams in technology-driven environments.  
+
+This space captures structured frameworks, operational playbooks and commercial evaluation tools that support scalable, data-informed event strategy.
+
+I believe strong event leadership in high-growth companies requires systems thinking, measurable ROI and cross-functional alignment.
